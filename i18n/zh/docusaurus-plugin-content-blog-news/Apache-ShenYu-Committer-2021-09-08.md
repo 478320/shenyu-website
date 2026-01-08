@@ -1,6 +1,7 @@
 ---
 title: "【从用户到Committer，参与Apache ShenYu社区并不遥远】" 
 author: "唐震"
+slug: "Apache-ShenYu-Committer-2021-09-08"
 description: "从用户到Committer，参与Apache ShenYu社区并不遥远" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

@@ -1,6 +1,7 @@
 ---
 title: "[From users to Committer, different experiences and gains]" 
 author: "qicz"
+slug: "Apache-ShenYu-Committer-2021-11-11"
 description: "From users to Committer, different experiences and gains" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

@@ -1,6 +1,7 @@
 ---
 title: "【从用户到Apache ShenYu Committer】"
 author: "何凤恩"
+slug: "Apache-ShenYu-Committer-2022-08-04"
 description: "从用户到Apache ShenYu Committer"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

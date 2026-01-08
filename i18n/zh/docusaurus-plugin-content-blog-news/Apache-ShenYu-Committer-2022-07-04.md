@@ -1,6 +1,7 @@
 ---
 title: "【从CRUD Boy到Apache ShenYu Committer】" 
 author: "鄢仁柱"
+slug: "Apache-ShenYu-Committer-2022-07-04"
 description: "从CRUD Boy到Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

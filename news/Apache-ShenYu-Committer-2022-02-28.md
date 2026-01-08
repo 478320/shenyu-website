@@ -1,6 +1,7 @@
 ---
 title: "[The Open Source Path for Tech Veterans]"
 author: "Haibo Duan"
+slug: "Apache-ShenYu-Committer-2022-02-28"
 description: "The Open Source Path for Tech Veterans"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

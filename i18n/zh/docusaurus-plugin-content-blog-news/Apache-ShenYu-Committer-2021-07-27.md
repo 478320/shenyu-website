@@ -1,6 +1,7 @@
 ---
 title: "【毕业一年我是如何成为Apache ShenYu Committer】" 
 author: "刘良"
+slug: "Apache-ShenYu-Committer-2021-07-27"
 description: "毕业一年成长成为Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

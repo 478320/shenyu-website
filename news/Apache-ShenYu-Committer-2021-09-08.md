@@ -1,6 +1,7 @@
 ---
 title: "[From users to Committer, participation in the Apache ShenYu community is not far away]" 
 author: "Tang Zhen"
+slug: "Apache-ShenYu-Committer-2021-09-08"
 description: "From users to Committer, participation in the Apache ShenYu community is not far away" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

@@ -1,6 +1,7 @@
 ---
 title: "【Apache ShenYu(incubating）新晋PPMC】" 
 author: "刘良"
+slug : "Apache-ShenYu-PPMC-2021-11-05"
 description: "Apache ShenYu(incubating）新晋PPMC" 
 categories: "Apache ShenYu PPMC"
 tags: ["Apache ShenYu"]

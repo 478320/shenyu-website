@@ -1,6 +1,7 @@
 ---
 title: "[Apache ShenYu(incubating) newly promoted PPMC]" 
 author: "Liu Liang"
+slug : "Apache-ShenYu-PPMC-2021-11-05"
 description: "Apache ShenYu(incubating) newly promoted PPMC" 
 categories: "Apache ShenYu PPMC"
 tags: ["Apache ShenYu"]

@@ -1,6 +1,7 @@
 ---
 title: "【You can also be an Apache ShenYu Committer】" 
 author: "Zicheng Zhang"
+slug: "Apache-ShenYu-Committer-2022-04-20"
 description: "You can also be an Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

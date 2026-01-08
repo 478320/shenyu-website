@@ -1,6 +1,7 @@
 ---
 title: "【学生的Apache ShenYu贡献之路】"
 author: "秦海棋"
+slug: "Apache-ShenYu-Committer-2023-06-14"
 description: "The Student's Journey of Contributing to Apache ShenYu"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

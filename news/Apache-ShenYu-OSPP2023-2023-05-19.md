@@ -1,6 +1,7 @@
 ---
 title: "[OSPP 2023 & Apache ShenYu task is coming | Invite you to explore the high performance gateway]"
 author: "moremind"
+slug: "Apache-ShenYu-OSPP2023-2023-05-19"
 description: "Apache ShenYu OSPP 2023"
 categories: "OSPP 2023"
 tags: ["Apache ShenYu", "OSPP 2023"]

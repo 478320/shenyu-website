@@ -1,6 +1,7 @@
 ---
 title: "Start small, become a Committer"
 author: "achao"
+slug: "Apache-ShenYu-Committer-2024-08-14"
 description: "Start small, become a Committer"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

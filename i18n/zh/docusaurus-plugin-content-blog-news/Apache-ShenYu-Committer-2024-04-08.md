@@ -1,6 +1,7 @@
 ---
 title: "【与ShenYu共创未来】"
 author: "kerwin612"
+slug: "Apache-ShenYu-Committer-2024-04-08"
 description: "与ShenYu共创未来"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

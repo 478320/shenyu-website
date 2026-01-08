@@ -1,6 +1,7 @@
 ---
 title: "[How I became an Apache ShenYu Committer one year after graduation]" 
 author: "Liu Liang"
+slug: "Apache-ShenYu-Committer-2021-07-27" 
 description: "How I became an Apache ShenYu Committer one year after graduation" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

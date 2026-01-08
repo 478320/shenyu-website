@@ -1,6 +1,7 @@
 ---
 title: "【From company gateway framework selection to Apache ShenYu Committer】" 
 author: "Shuo Li"
+slug: "Apache-ShenYu-Committer-2022-08-08"
 description: "From company gateway framework selection to Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

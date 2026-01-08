@@ -1,6 +1,7 @@
 ---
 title: "【你也可以成为Apache ShenYu Committer】" 
 author: "张子成"
+slug: "Apache-ShenYu-Committer-2022-04-20"
 description: "你也可以成为Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

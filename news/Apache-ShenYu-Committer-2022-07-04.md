@@ -1,6 +1,7 @@
 ---
 title: "【From CRUD Boy to Apache ShenYu Committer】" 
 author: "Renzhu Yan"
+slug: "Apache-ShenYu-Committer-2022-07-04"
 description: "From CRUD Boy to Apache ShenYu Committer" 
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

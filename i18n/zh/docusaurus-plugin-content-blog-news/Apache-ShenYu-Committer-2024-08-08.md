@@ -1,6 +1,7 @@
 ---
 title: "【我的 Apache ShenYu 开源之旅】"
 author: "Hongyu Liu"
+slug: "Apache-ShenYu-Committer-2024-08-08"
 description: "我的 Apache ShenYu 开源之旅"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

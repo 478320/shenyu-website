@@ -1,6 +1,7 @@
 ---
 title: "[Google Summer of Code & Apache ShenYu task is coming | Invite you to explore the high performance gateway]"
 author: "moremind"
+slug: "Apache-ShenYu-GSOC2023-2023-04-18"
 description: "Apache ShenYu GSOC 2023"
 categories: "GSOC 2023"
 tags: ["Apache ShenYu", "GSOC 2023"]

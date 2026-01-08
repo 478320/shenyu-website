@@ -1,6 +1,7 @@
 ---
 title: "[The way from University Student to Apache Committer]"
 author: "Kunshuai Zhu"
+slug: "Apache-ShenYu-Committer-2021-12-08"
 description: "The way from College Student to Apache Committer"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]

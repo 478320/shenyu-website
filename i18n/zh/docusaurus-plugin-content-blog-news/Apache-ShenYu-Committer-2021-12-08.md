@@ -1,6 +1,7 @@
 ---
 title: "【从在校生到Apache Committer之路】"
 author: "朱坤帅"
+slug: "Apache-ShenYu-Committer-2021-12-08"
 description: "The way from College Student to Apache Committer"
 categories: "Apache ShenYu Committers"
 tags: ["Apache ShenYu"]
